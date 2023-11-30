@@ -1,6 +1,6 @@
 # SQLite Commands
 
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+![Licence](https://img.shields.io/badge/Unlicense-red)
 
 ## Overview
 
@@ -144,4 +144,4 @@ Note: When using version control systems like git, remember to add the SQLite da
 
 ## License
 
-This project is released under the MIT License.
+This repository is unlicense[d], so feel free to fork.
