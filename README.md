@@ -1,5 +1,9 @@
 # SQLite Commands
 
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+## Overview
+
 A brief overview of SQLite, a cheat sheet for common SQLite commands, as well as best practices for integrating SQLite with Laravel projects.
 
 ## Table Operations
